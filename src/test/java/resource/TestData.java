@@ -19,7 +19,7 @@ public class TestData {
 		a.setWebsite("http://google.com");
 		a.setLanguage(language);
 		List<String> arr =new ArrayList<String>();
-		arr.add("shoe park");
+		arr.add("shoe parkkkkk");
 		arr.add("shop");
 		a.setTypes(arr);
 		location l=new location();
