@@ -14,13 +14,13 @@ public class TestData {
 		Addplace a= new Addplace();
 		a.setAccuracy(50);
 		a.setName(name);
-		a.setPhone_number("(+91) 983 893 356");
+		a.setPhone_number("(+91) 983 743 356");
 		a.setAddress(address);
 		a.setWebsite("http://google.com");
 		a.setLanguage(language);
 		List<String> arr =new ArrayList<String>();
 		arr.add("shoe parkkkkk");
-		arr.add("shopno6");
+		arr.add("shopno9");
 		a.setTypes(arr);
 		location l=new location();
 		l.setLat((int) -38.383494);
