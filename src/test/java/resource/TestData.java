@@ -20,11 +20,11 @@ public class TestData {
 		a.setLanguage(language);
 		List<String> arr =new ArrayList<String>();
 		arr.add("shoe parkkkkk");
-		arr.add("shop");
+		arr.add("shop no2");
 		a.setTypes(arr);
 		location l=new location();
 		l.setLat((int) -38.383494);
-		l.setLng((int) 33.427362);
+		l.setLng((int) 33.7827362);
 		a.setLocation(l);
 		
 		return a;
